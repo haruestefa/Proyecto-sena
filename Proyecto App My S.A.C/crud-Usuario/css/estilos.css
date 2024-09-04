@@ -1,0 +1,40 @@
+hr {
+    width: 111%;
+    margin-left: -25px;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited {
+    color: white !important;
+    background-color: #563d7c !important;
+    border-color: #563d7c !important;
+}
+
+.btn-warning,
+.btn-warning:hover,
+.btn-warning:active,
+.btn-warning:visited {
+    color: white !important;
+    background-color: #345995 !important;
+    border-color: #345995 !important;
+}
+
+.btn-danger,
+.btn-danger:hover,
+.btn-danger:active,
+.btn-danger:visited {
+    color: white !important;
+    background-color: #E40066 !important;
+    border-color: #E40066 !important;
+}
+
+.btn-dark,
+.btn-dark:hover,
+.btn-dark:active,
+.btn-dark:visited {
+    color: white !important;
+    background-color: #1F2041 !important;
+    border-color: #1F2041 !important;
+}
